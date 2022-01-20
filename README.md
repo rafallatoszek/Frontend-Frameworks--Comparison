@@ -1,7 +1,7 @@
 # Frontend-Frameworks-Comparison
 Frontend Frameworsk (Angular, React, Vue) comparison
 
-## Run Angular
+### Run Angular
 ```
 cd angular-project
 ng serve -o
