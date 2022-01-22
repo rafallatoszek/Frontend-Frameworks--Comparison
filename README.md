@@ -1,5 +1,5 @@
 # Frontend-Frameworks-Comparison
-Frontend Frameworsk (Angular, React, Vue) comparison
+Frontend Frameworks (Angular, React, Vue) comparison
 
 ### Run Angular
 ```
