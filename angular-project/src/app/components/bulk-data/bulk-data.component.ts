@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import data from '../../../../../data/data.json';
+import data from '../../../assets/data.json';
 
 @Component({
   selector: 'app-bulk-data',
