@@ -1,14 +1,14 @@
 <template>
-  <router-view/>
+  <p>request</p>
 </template>
 
 <script>
 
 export default {
-  name: 'App',
-  components: {
-  }
+  name: 'Request',
+  props: { }
 }
+
 </script>
 
 <style></style>

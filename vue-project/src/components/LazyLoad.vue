@@ -1,14 +1,14 @@
 <template>
-  <router-view/>
+  <p>lazy</p>
 </template>
 
 <script>
 
 export default {
-  name: 'App',
-  components: {
-  }
+  name: 'LazyLoad',
+  props: { }
 }
+
 </script>
 
 <style></style>

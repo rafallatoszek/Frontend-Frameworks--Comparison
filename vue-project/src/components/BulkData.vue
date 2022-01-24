@@ -1,14 +1,14 @@
 <template>
-  <router-view/>
+  <p>bulk</p>
 </template>
 
 <script>
 
 export default {
-  name: 'App',
-  components: {
-  }
+  name: 'BulkData',
+  props: { }
 }
+
 </script>
 
 <style></style>
